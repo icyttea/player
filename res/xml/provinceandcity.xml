@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<province parentId="-1" curId="1" name="广西区联网监控中心"></province>
+	<city parentId="1" curId="2" name="南宁监控中心"></city>
+		<company parentId="2" curId="3" name="环城分公司"></company>
+			<site parentId="3" curId="4" name="高峰收费站"></site>
+				<device parentId="4" curId="5" name="大华半球机" cameraId="1"></device>
+				<device parentId="4" curId="6" name="安讯士-IPC" cameraId="2"></device>
+				<device parentId="4" curId="7" name="蛙视-IPC" cameraId="3"></device>
+				<device parentId="4" curId="8" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="11" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="12" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="13" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="14" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="15" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="16" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="17" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="18" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="19" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="20" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="21" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="22" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="23" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="24" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="25" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="26" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="27" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="28" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="29" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="30" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="31" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="32" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="33" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="34" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="35" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="36" name="车牌识别-IPC" cameraId="4"></device>
+				<device parentId="4" curId="37" name="车牌识别-IPC" cameraId="4"></device>
+			<site parentId="3" curId="9" name="五塘收费站"></site>
+				<device parentId="9" curId="10" name="大华1" cameraId="5"></device>
+		
+				
+</resources>
